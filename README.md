@@ -18,7 +18,7 @@ For large changes, please file an issue to discuss your proposed changes with us
 Clone and install the dependencies for `next-movies` locally:
 
 ```bash 
-  git clone https://github.com/tastejs/next-movies.git
+  git clone https://github.com/Akshay-Arjun/next-movies
   cd next-movies 
   npm install
 ```
@@ -67,6 +67,9 @@ In most cases, we strongly recommend using the [next/image](https://nextjs.org/d
 - [@anton-karlovskiy](https://github.com/anton-karlovskiy)
 - [@addyosmani](https://github.com/addyosmani)
 
+## Play Movie Functionality by
+- [@Akshay-Arjun](https://github.com/Akshay-Arjun)
+  
 Based on the original `create-react-app` foundation by [@fidalgodev](https://github.com/fidalgodev/movie-library-react).
 
 ## License
