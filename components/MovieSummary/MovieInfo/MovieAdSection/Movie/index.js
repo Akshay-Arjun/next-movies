@@ -43,7 +43,7 @@ const Movie = ({ playmovie }) => {
     setModalVideoOpened(false);
   };
   
-  const movieUrl = `https://vidsrc.to/embed/movie/${movieId}`;
+  const movieUrl = `https://embed.su/embed/movie/${movieId}`;
 
   return (
     <>
